@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Analyst**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/nikhil-singh-48a676327?utm_source=share_via&utm_content=profile&utm_medium=member_android](https://www.linkedin.com/in/nikhil-singh-48a676327?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- 👨‍💻 All of my projects are available at [https://nikhil-portfolio.site.je/?i=1]
 
 - 📫 How to reach me **nikhilsingh7874@gmail.com**
 
