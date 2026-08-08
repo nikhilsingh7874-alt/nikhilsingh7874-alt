@@ -1,6 +1,6 @@
 ![logo](https://github.com/nikhilsingh7874-alt/nikhilsingh7874-alt/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Nikhil Singh</h1>
-<h3 align="center">📊 Aspiring Data Analyst | Power BI • SQL • Excel | Turning Data into Actionable Insights</h3>
+<h3 align="center">📊 Aspiring Data Analyst And Full Stack Developer| Power BI • SQL • Excel • Python • php • javascipt | Turning Data into Actionable Insights</h3>
 <img align="right" alt="data analyist" width="400" src="https://media.licdn.com/dms/image/v2/D5622AQErLtEwwz2Acw/feedshare-shrink_800/B56ZxbtIUBJQAg-/0/1771065091692?e=2147483647&v=beta&t=FbCZy6S6e3468hRkO8lEyGLxmOmW_5CB5c64RHmmweM">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilsingh7874-alt&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilsingh7874-alt" /> </p>
